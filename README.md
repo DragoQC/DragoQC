@@ -5,12 +5,12 @@
   </h1>
 
   <p style="font-size: 1.05rem; opacity: 0.9; margin-bottom: 0.4rem;">
-    💻 Full-Stack Developer · 🏡 Homelab & Proxmox Fan · 🚀 Always Learning
+    💻 Full-Stack Developer · 🏡 Homelab & Proxmox Fan · 🇨🇦 From Québec · 🚀 Always Learning
   </p>
 
   <p style="max-width: 600px; font-size: 0.98rem; line-height: 1.5; opacity: 0.85;">
-    I build things, break things, self-host as much as I can,
-    and always find a new rabbit hole in tech to dive into.
+    I build things, test things, self-host as much as I can,
+    and always find something new to explore in the tech world.
   </p>
 
 </div>
@@ -94,13 +94,26 @@
 
 <hr />
 
-<h2 align="center">🐙 GitHub</h2>
+<h2 align="center">🌐 Projects & Links</h2>
 
-<div align="center" style="margin-top: 10px;">
+<div align="center" style="margin-top: 15px; display: flex; flex-direction: column; gap: 6px;">
 
+  <!-- GitHub -->
   <a href="https://github.com/DragoQC"
      style="font-size: 1.05rem; text-decoration: none; font-weight: bold;">
-    👉 github.com/DragoQC
+     🐙 github.com/DragoQC
+  </a>
+
+  <!-- Camping La Liberté -->
+  <a href="https://campinglaliberte.ca"
+     style="font-size: 1.05rem; text-decoration: none; font-weight: bold;">
+     🏕️ campinglaliberte.ca
+  </a>
+
+  <!-- Optima Solutions -->
+  <a href="https://optimasolutions.ca"
+     style="font-size: 1.05rem; text-decoration: none; font-weight: bold;">
+     🏢 optimasolutions.ca
   </a>
 
 </div>
