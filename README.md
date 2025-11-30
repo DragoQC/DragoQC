@@ -24,37 +24,37 @@
   <!-- C# -->
   <a href="https://learn.microsoft.com/dotnet/csharp/" title="C#" target="_blank" style="margin: 0 6px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-         width="25" height="25" alt="C#" />
+         width="50" height="50" alt="C#" />
   </a>
 
   <!-- ASP.NET / .NET -->
   <a href="https://dotnet.microsoft.com/apps/aspnet" title="ASP.NET Core" target="_blank" style="margin: 0 6px;">
     <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@master/svg/asp-net-core.svg"
-         width="25" height="25" alt="ASP.NET Core" />
+         width="50" height="50" alt="ASP.NET Core" />
   </a>
 
   <!-- Vue.js -->
   <a href="https://vuejs.org" title="Vue.js" target="_blank" style="margin: 0 6px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
-         width="25" height="25" alt="Vue.js" />
+         width="50" height="50" alt="Vue.js" />
   </a>
 
   <!-- Tailwind CSS -->
   <a href="https://tailwindcss.com" title="Tailwind CSS" target="_blank" style="margin: 0 6px;">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-         width="25" height="25" alt="Tailwind CSS" />
+         width="50" height="50" alt="Tailwind CSS" />
   </a>
 
   <!-- Bash -->
   <a href="https://www.gnu.org/software/bash/" title="Bash" target="_blank" style="margin: 0 6px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
-         width="25" height="25" alt="Bash" />
+         width="50" height="50" alt="Bash" />
   </a>
 
   <!-- Proxmox -->
   <a href="https://www.proxmox.com" title="Proxmox VE" target="_blank" style="margin: 0 6px;">
     <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@master/svg/proxmox.svg"
-         width="25" height="25" alt="Proxmox" />
+         width="50" height="50" alt="Proxmox" />
   </a>
 
 </div>
