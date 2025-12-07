@@ -102,31 +102,31 @@
 
 <h2 align="center">🌐 Projects & Links</h2>
 
-<div align="center" style="margin-top: 15px; display: grid; grid-template-columns: repeat(2, auto); gap: 10px; justify-content: center;">
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 6px;">
+      <a href="https://github.com/DragoQC" style="font-size: 1.05rem; text-decoration: none; font-weight: bold;">
+        🐙 github.com/DragoQC
+      </a>
+    </td>
+    <td align="center" style="padding: 6px;">
+      <a href="https://github.com/DragoQC/adaptivehordes-1.21.1" style="font-size: 1.05rem; text-decoration: none; font-weight: bold;">
+        🕹️ adaptivehordes-1.21.1
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 6px;">
+      <a href="https://campinglaliberte.ca" style="font-size: 1.05rem; text-decoration: none; font-weight: bold;">
+        🏕️ campinglaliberte.ca
+      </a>
+    </td>
+    <td align="center" style="padding: 6px;">
+      <a href="https://optimasolutions.ca" style="font-size: 1.05rem; text-decoration: none; font-weight: bold;">
+        🏢 optimasolutions.ca
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <!-- GitHub -->
-  <a href="https://github.com/DragoQC"
-     style="font-size: 1.05rem; text-decoration: none; font-weight: bold;">
-     🐙 github.com/DragoQC
-  </a>
-
-  <!-- AdaptiveHordes -->
-  <a href="https://github.com/DragoQC/adaptivehordes-1.21.1"
-     style="font-size: 1.05rem; text-decoration: none; font-weight: bold;">
-     🕹️ adaptivehordes-1.21.1
-  </a>
-
-  <!-- Camping La Liberté -->
-  <a href="https://campinglaliberte.ca"
-     style="font-size: 1.05rem; text-decoration: none; font-weight: bold;">
-     🏕️ campinglaliberte.ca
-  </a>
-
-  <!-- Optima Solutions -->
-  <a href="https://optimasolutions.ca"
-     style="font-size: 1.05rem; text-decoration: none; font-weight: bold;">
-     🏢 optimasolutions.ca
-  </a>
-
-</div>
 
