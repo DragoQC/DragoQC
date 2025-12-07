@@ -27,7 +27,7 @@
          width="50" height="50" alt="c#" />
   </a>
   
-  	<!-- JAVA -->
+<!-- JAVA -->
 <a href="https://dev.java/" title="JAVA" target="_blank" style="margin: 0 6px;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
 	   width="50" height="50" alt="Java" />
