@@ -23,8 +23,14 @@
 
   <!-- C# -->
   <a href="https://learn.microsoft.com/dotnet/csharp/" title="C#" target="_blank" style="margin: 0 6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg
          width="50" height="50" alt="C#" />
+  </a>
+  
+  <!-- JAVA -->
+  <a href="https://learn.microsoft.com/dotnet/csharp/" title="C#" target="_blank" style="margin: 0 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+         width="50" height="50" alt="java" />
   </a>
 
   <!-- ASP.NET / .NET -->
