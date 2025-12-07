@@ -102,12 +102,18 @@
 
 <h2 align="center">🌐 Projects & Links</h2>
 
-<div align="center" style="margin-top: 15px; display: flex; flex-direction: column; gap: 6px;">
+<div align="center" style="margin-top: 15px; display: grid; grid-template-columns: repeat(2, auto); gap: 10px; justify-content: center;">
 
   <!-- GitHub -->
   <a href="https://github.com/DragoQC"
      style="font-size: 1.05rem; text-decoration: none; font-weight: bold;">
      🐙 github.com/DragoQC
+  </a>
+
+  <!-- AdaptiveHordes -->
+  <a href="https://github.com/DragoQC/adaptivehordes-1.21.1"
+     style="font-size: 1.05rem; text-decoration: none; font-weight: bold;">
+     🕹️ adaptivehordes-1.21.1
   </a>
 
   <!-- Camping La Liberté -->
@@ -123,3 +129,4 @@
   </a>
 
 </div>
+
