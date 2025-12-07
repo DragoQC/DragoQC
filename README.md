@@ -29,7 +29,7 @@
   
   <!-- JAVA -->
   <a href="https://dev.java/" title="JAVA" target="_blank" style="margin: 0 6px;">
-    <img src="https://dev.java/assets/images/javaone/cbgmd-javaone26-hero.webp"
+    <img src="https://e7.pngegg.com/pngimages/123/816/png-clipar…E7%89%87%E7%B4%A0%E6%9D%90-miscellaneous-text.png"
          width="50" height="50" alt="java" />
   </a>
 
