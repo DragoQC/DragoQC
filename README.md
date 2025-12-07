@@ -23,13 +23,13 @@
 
   <!-- C# -->
   <a href="https://learn.microsoft.com/dotnet/csharp/" title="C#" target="_blank" style="margin: 0 6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg
-         width="50" height="50" alt="C#" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+         width="50" height="50" alt="c#" />
   </a>
   
   <!-- JAVA -->
-  <a href="https://learn.microsoft.com/dotnet/csharp/" title="C#" target="_blank" style="margin: 0 6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+  <a href="https://dev.java/" title="JAVA" target="_blank" style="margin: 0 6px;">
+    <img src="https://dev.java/assets/images/javaone/cbgmd-javaone26-hero.webp"
          width="50" height="50" alt="java" />
   </a>
 
