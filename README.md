@@ -28,10 +28,10 @@
   </a>
   
   	<!-- JAVA -->
-	<a href="https://dev.java/" title="JAVA" target="_blank" style="margin: 0 6px;">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-		   width="50" height="50" alt="Java" />
-	</a>
+<a href="https://dev.java/" title="JAVA" target="_blank" style="margin: 0 6px;">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+	   width="50" height="50" alt="Java" />
+</a>
 
   <!-- ASP.NET / .NET -->
   <a href="https://dotnet.microsoft.com/apps/aspnet" title="ASP.NET Core" target="_blank" style="margin: 0 6px;">
