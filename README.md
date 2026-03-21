@@ -1,12 +1,12 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1e293b,45:0f766e,100:22c55e&text=Alex%20%2F%20DragoQC&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Homelab%20Builder%20%7C%20Minecraft%20Modder&descAlignY=60" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1e293b,45:0f766e,100:22c55e&text=Alex%20%2F%20DragoQC&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Linux%20Fan%20%7C%20Sysadmin%20%7C%20Minecraft%20Modder&descAlignY=60" alt="Header banner" />
 
   <h1>Building apps, breaking labs, and learning fast</h1>
 
   <p>
-    Full-stack developer from Quebec with a soft spot for self-hosting, automation,
-    Minecraft modding, and turning side projects into real tools.
+    Full-stack developer and sysadmin from Quebec with a strong Linux-first mindset,
+    a Debian daily driver, and a soft spot for self-hosting, automation, and Minecraft modding.
   </p>
 
   <p>
@@ -28,11 +28,11 @@
 ## Main Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,vue,tailwind,bash,linux,docker,postgresql,mysql,git" alt="Main stack icons" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,java,vue,tailwind,bash,linux,docker,postgresql,mysql,git" alt="Main stack icons" />
 </div>
 
 <p align="center">
-  Java and C# are the stacks I spend the most time in, with ASP.NET, Vue, Bash, and homelab tooling close behind.
+  I mainly build in C#, Python, and Java, with Linux, ASP.NET, Vue, Bash, and homelab tooling rounding out the stack.
 </p>
 
 ---
@@ -44,11 +44,15 @@
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=DragoQC&show_icons=true&theme=vue-dark&rank_icon=github" alt="GitHub stats" />
 </div>
 
+<p align="center">
+  My public repo language graph does not fully reflect my day-to-day work. Most of my current dev time goes into C#, Python, and Java.
+</p>
+
 ---
 
 ## What I Build
 
-- Full-stack apps with Java, C#, ASP.NET, Vue, and modern web tooling
+- Full-stack apps with C#, Python, Java, ASP.NET, Vue, and modern web tooling
 - Minecraft modding and game-related experiments
 - Internal tools, utility scripts, and automation projects
 - Self-hosted services running on Proxmox, Linux VMs, and containers
@@ -56,11 +60,20 @@
 
 ---
 
+## Sysadmin Side
+
+- Linux-first mindset with Debian as my current daily driver
+- Homelab administration across Proxmox, VMs, containers, networking, and self-hosted services
+- Windows infrastructure work on the side, including Active Directory and related admin tasks
+- Automation, maintenance, and troubleshooting across both Linux and Windows environments
+
+---
+
 ## Homelab Mode
 
 <p>
   My homelab is where I learn the most. I like deploying things myself, tuning them,
-  breaking them, fixing them, and figuring out how far I can push my setup.
+  breaking them, fixing them, and figuring out how far I can push a Linux-first setup while still keeping Windows services where they make sense.
 </p>
 
 - Proxmox VE with multiple nodes, VMs, and LXCs
