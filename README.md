@@ -1,132 +1,110 @@
-<div align="center" style="margin-bottom: 20px;">
+<div align="center">
 
-  <h1 style="font-size: 2.4rem; margin-bottom: 0.2rem;">
-    👋 Hey, I’m <span style="color: #4f46e5;">Alex / DragoQC</span>
-  </h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1e293b,45:0f766e,100:22c55e&text=Alex%20%2F%20DragoQC&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Homelab%20Builder%20%7C%20Minecraft%20Modder&descAlignY=60" alt="Header banner" />
 
-  <p style="font-size: 1.05rem; opacity: 0.9; margin-bottom: 0.4rem;">
-    💻 Full-Stack Developer · 🏡 Homelab & Proxmox Fan · 🇨🇦 From Québec · 🚀 Always Learning
+  <h1>Building apps, breaking labs, and learning fast</h1>
+
+  <p>
+    Full-stack developer from Quebec with a soft spot for self-hosting, automation,
+    Minecraft modding, and turning side projects into real tools.
   </p>
 
-  <p style="max-width: 600px; font-size: 0.98rem; line-height: 1.5; opacity: 0.85;">
-    I build things, test things, self-host as much as I can,
-    and always find something new to explore in the tech world.
+  <p>
+    <a href="https://github.com/DragoQC">
+      <img src="https://img.shields.io/badge/GitHub-DragoQC-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    </a>
+    <a href="https://campinglaliberte.ca">
+      <img src="https://img.shields.io/badge/Project-Camping%20La%20Liberte-16a34a?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Camping La Liberte" />
+    </a>
+    <a href="https://optimasolutions.ca">
+      <img src="https://img.shields.io/badge/Project-Optima%20Solutions-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Optima Solutions" />
+    </a>
   </p>
 
 </div>
 
-<hr />
+---
 
-<h2 align="center" style="margin-top: 30px;">🚀 Tech Stack</h2>
+## Main Stack
 
-<div align="center" style="margin: 10px 0 25px 0;">
-
-  <!-- C# -->
-  <a href="https://learn.microsoft.com/dotnet/csharp/" title="C#" target="_blank" style="margin: 0 6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-         width="50" height="50" alt="c#" />
-  </a>
-  
-<!-- JAVA -->
-<a href="https://dev.java/" title="JAVA" target="_blank" style="margin: 0 6px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-	   width="50" height="50" alt="Java" />
-</a>
-
-  <!-- ASP.NET / .NET -->
-  <a href="https://dotnet.microsoft.com/apps/aspnet" title="ASP.NET Core" target="_blank" style="margin: 0 6px;">
-    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@master/svg/asp-net-core.svg"
-         width="50" height="50" alt="ASP.NET Core" />
-  </a>
-
-  <!-- Vue.js -->
-  <a href="https://vuejs.org" title="Vue.js" target="_blank" style="margin: 0 6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
-         width="50" height="50" alt="Vue.js" />
-  </a>
-
-  <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com" title="Tailwind CSS" target="_blank" style="margin: 0 6px;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-         width="50" height="50" alt="Tailwind CSS" />
-  </a>
-
-  <!-- Bash -->
-  <a href="https://www.gnu.org/software/bash/" title="Bash" target="_blank" style="margin: 0 6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
-         width="50" height="50" alt="Bash" />
-  </a>
-
-  <!-- Proxmox -->
-  <a href="https://www.proxmox.com" title="Proxmox VE" target="_blank" style="margin: 0 6px;">
-    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@master/svg/proxmox.svg"
-         width="50" height="50" alt="Proxmox" />
-  </a>
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,vue,tailwind,bash,linux,docker,postgresql,mysql,git" alt="Main stack icons" />
 </div>
 
-<hr />
-
-<h2>🏡 Homelab & Proxmox</h2>
-
-<p style="line-height: 1.6; opacity: 0.9;">
-  I’m a <strong>homelab addict</strong> and a long-time <strong>Proxmox VE enjoyer</strong>.
-  I like running my own stuff instead of relying on third-party services.
+<p align="center">
+  Java and C# are the stacks I spend the most time in, with ASP.NET, Vue, Bash, and homelab tooling close behind.
 </p>
 
-<ul>
-  <li>Proxmox VE with multiple nodes &amp; VMs</li>
-  <li>Linux VMs &amp; LXCs for apps and services</li>
-  <li>Reverse proxies and self-hosted dashboards</li>
-  <li>Media servers, game servers, and internal tools</li>
-  <li>Automation experiments and “just to see if I can” setups</li>
-</ul>
+---
 
-<p style="line-height: 1.6; opacity: 0.9;">
-  I enjoy tuning, breaking, fixing, improving, and automating everything in my lab.
+## GitHub Snapshot
+
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DragoQC&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=vue-dark" alt="Top languages" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=DragoQC&show_icons=true&theme=vue-dark&rank_icon=github" alt="GitHub stats" />
+</div>
+
+---
+
+## What I Build
+
+- Full-stack apps with Java, C#, ASP.NET, Vue, and modern web tooling
+- Minecraft modding and game-related experiments
+- Internal tools, utility scripts, and automation projects
+- Self-hosted services running on Proxmox, Linux VMs, and containers
+- Labs that start as "just testing something" and become permanent infrastructure
+
+---
+
+## Homelab Mode
+
+<p>
+  My homelab is where I learn the most. I like deploying things myself, tuning them,
+  breaking them, fixing them, and figuring out how far I can push my setup.
 </p>
 
-<hr />
+- Proxmox VE with multiple nodes, VMs, and LXCs
+- Reverse proxies, dashboards, and self-hosted apps
+- Media, game, and utility servers
+- Bash-driven automation and maintenance
+- Constant experiments because leaving things alone is not as fun
 
-<h2>⚡ What I Love Doing</h2>
+---
 
-<ul>
-  <li>Building full-stack apps with <strong>C#</strong>, <strong>ASP.NET</strong>, <strong>Blazor</strong>, and <strong>Vue</strong></li>
-  <li>Hosting and managing my own services and infrastructure</li>
-  <li>Writing scripts in <strong>Bash</strong> to glue everything together</li>
-  <li>Learning new tools, frameworks, and platforms all the time</li>
-  <li>Juggling multiple projects because doing only one thing is boring</li>
-</ul>
+## Minecraft Mods
 
-<hr />
+<div align="center">
+  <a href="https://github.com/DragoQC/adaptivehordes-1.21.1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DragoQC&repo=adaptivehordes-1.21.1&theme=vue-dark" alt="adaptivehordes-1.21.1" />
+  </a>
+</div>
 
-<h2 align="center">🌐 Projects & Links</h2>
+<p align="center">
+  <a href="https://www.curseforge.com/minecraft/mc-mods/adaptive-horde">
+    <img src="https://img.shields.io/badge/CurseForge-Adaptive%20Horde-f97316?style=for-the-badge&logo=curseforge&logoColor=white" alt="Adaptive Horde on CurseForge" />
+  </a>
+  <a href="https://github.com/DragoQC/adaptivehordes-1.21.1">
+    <img src="https://img.shields.io/badge/GitHub-Source%20Code-16a34a?style=for-the-badge&logo=github&logoColor=white" alt="Adaptive Horde source code" />
+  </a>
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center" style="padding: 6px;">
-      <a href="https://github.com/DragoQC" style="font-size: 1.05rem; text-decoration: none; font-weight: bold;">
-        🐙 github.com/DragoQC
-      </a>
-    </td>
-    <td align="center" style="padding: 6px;">
-      <a href="https://github.com/DragoQC/adaptivehordes-1.21.1" style="font-size: 1.05rem; text-decoration: none; font-weight: bold;">
-        🕹️ adaptivehordes-1.21.1
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 6px;">
-      <a href="https://campinglaliberte.ca" style="font-size: 1.05rem; text-decoration: none; font-weight: bold;">
-        🏕️ campinglaliberte.ca
-      </a>
-    </td>
-    <td align="center" style="padding: 6px;">
-      <a href="https://optimasolutions.ca" style="font-size: 1.05rem; text-decoration: none; font-weight: bold;">
-        🏢 optimasolutions.ca
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  Adaptive Horde is one of the projects I want people to notice first: Minecraft modding, gameplay systems, and Java work all in one place.
+</p>
 
+---
 
+## Featured Links
+
+<p align="center">
+  <a href="https://github.com/DragoQC">GitHub</a> •
+  <a href="https://www.curseforge.com/minecraft/mc-mods/adaptive-horde">Adaptive Horde</a> •
+  <a href="https://campinglaliberte.ca">campinglaliberte.ca</a> •
+  <a href="https://optimasolutions.ca">optimasolutions.ca</a>
+</p>
+
+---
+
+<div align="center">
+  <sub>Always building something, hosting something, or refactoring something that worked fine yesterday.</sub>
+</div>
