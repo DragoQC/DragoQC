@@ -40,8 +40,8 @@
 ## GitHub Snapshot
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DragoQC&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=vue-dark" alt="Top languages" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=DragoQC&show_icons=true&theme=vue-dark&rank_icon=github" alt="GitHub stats" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DragoQC&theme=github_dark" alt="Top languages" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DragoQC&theme=github_dark" alt="GitHub stats" />
 </div>
 
 <p align="center">
