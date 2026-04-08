@@ -85,12 +85,20 @@
 ---
 
 ## Minecraft Mods
-
-<div align="center">
-  <a href="https://github.com/DragoQC/adaptivehordes-1.21.1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DragoQC&repo=adaptivehordes-1.21.1&theme=vue-dark" alt="adaptivehordes-1.21.1" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="88">
+      <a href="https://www.curseforge.com/minecraft/mc-mods/adaptive-horde">
+        <img src="./assets/curseforge-dragoqc.png" width="72" height="72" alt="DragoQC CurseForge avatar" />
+      </a>
+    </td>
+    <td align="left">
+      <strong>DragoQC</strong><br />
+      <sub>CurseForge creator</sub><br />
+      <a href="https://www.curseforge.com/minecraft/mc-mods/adaptive-horde">Adaptive Horde on CurseForge</a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://www.curseforge.com/minecraft/mc-mods/adaptive-horde">
@@ -99,10 +107,6 @@
   <a href="https://github.com/DragoQC/adaptivehordes-1.21.1">
     <img src="https://img.shields.io/badge/GitHub-Source%20Code-16a34a?style=for-the-badge&logo=github&logoColor=white" alt="Adaptive Horde source code" />
   </a>
-</p>
-
-<p align="center">
-  Adaptive Horde is one of the projects I want people to notice first: Minecraft modding, gameplay systems, and Java work all in one place.
 </p>
 
 ---
